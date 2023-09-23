@@ -53,6 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
           style: TextStyle(color: Colors.white),
         ),
       ),
+      //Tugas Nomor 10
       body: Center(
         child: Padding(
           padding: const EdgeInsets.only(left: 20),
@@ -92,6 +93,7 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
         ),
       ),
+      //Tugas nomor 10
       drawer: const Drawer(
         backgroundColor: Color(0xFF222831),
         child: Padding(
@@ -116,6 +118,7 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
         ),
       ),
+      // Tugas Nomor 10
       bottomNavigationBar: BottomNavigationBar(
         backgroundColor: Color(0xff393E46),
         selectedItemColor: Colors.green,
